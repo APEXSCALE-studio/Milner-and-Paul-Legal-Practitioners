@@ -9,9 +9,8 @@ Live site built with pure HTML, CSS, and JavaScript. No frameworks. No dependenc
 
 ## 🌐 Live Preview
 
-> Deploy to [Netlify](https://netlify.com), [Vercel](https://vercel.com), or [GitHub Pages](https://pages.github.com) and paste your live URL here.
-
----
+> 
+--[-](https://apexscale-studio.github.io/Milner-and-Paul-Legal-Practitioners/)
 
 ## 📁 Project Structure
 
